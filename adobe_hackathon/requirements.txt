@@ -1,0 +1,12 @@
+# Core PDF processing
+PyMuPDF>=1.24.0
+
+# Language detection
+langdetect>=1.0.9
+langid>=1.1.6
+
+# Statistical analysis (for font analysis)
+numpy>=1.24.0
+
+# Optional: Advanced NLP (if available)
+spacy>=3.5.0

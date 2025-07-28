@@ -1,0 +1,1094 @@
+{
+  "SurajJulyResume.pdf": {
+    "title": "Suraj Sachan",
+    "outline": [
+      {
+        "level": "H1",
+        "text": "Suraj Sachan",
+        "page": 1,
+        "language": "en",
+        "font_size": 14.3,
+        "is_bold": true,
+        "confidence_score": 85.0
+      },
+      {
+        "level": "H1",
+        "text": "Bachelors of Technology",
+        "page": 1,
+        "language": "en",
+        "font_size": 10.9,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Information Technology",
+        "page": 1,
+        "language": "en",
+        "font_size": 10.9,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Education",
+        "page": 1,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": true,
+        "confidence_score": 75.0
+      },
+      {
+        "level": "H1",
+        "text": "Bachelors of Technology in Information Technology",
+        "page": 1,
+        "language": "en",
+        "font_size": 9.0,
+        "is_bold": false,
+        "confidence_score": 25.0
+      },
+      {
+        "level": "H1",
+        "text": "High School Diploma",
+        "page": 1,
+        "language": "en",
+        "font_size": 9.0,
+        "is_bold": false,
+        "confidence_score": 25.0
+      },
+      {
+        "level": "H1",
+        "text": "Experience",
+        "page": 1,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": true,
+        "confidence_score": 75.0
+      },
+      {
+        "level": "H1",
+        "text": "Full Stack Developer Intern",
+        "page": 1,
+        "language": "en",
+        "font_size": 9.0,
+        "is_bold": false,
+        "confidence_score": 25.0
+      },
+      {
+        "level": "H1",
+        "text": "Kanpur",
+        "page": 1,
+        "language": "en",
+        "font_size": 9.0,
+        "is_bold": false,
+        "confidence_score": 25.0
+      },
+      {
+        "level": "H1",
+        "text": "Projects",
+        "page": 1,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": true,
+        "confidence_score": 75.0
+      },
+      {
+        "level": "H1",
+        "text": "Technical Skills and Interests",
+        "page": 1,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": true,
+        "confidence_score": 75.0
+      },
+      {
+        "level": "H1",
+        "text": "Achievements",
+        "page": 1,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": true,
+        "confidence_score": 75.0
+      }
+    ],
+    "metadata": {
+      "pages": 1,
+      "text_elements": 70,
+      "body_font_size": 10.0,
+      "unique_font_sizes": 7,
+      "size_thresholds": {
+        "title": 12.04357499440661,
+        "h1": 11.532681245804957,
+        "h2": 11.021787497203306,
+        "h3": 10.510893748601653,
+        "body": 10.0,
+        "small": 9.489106251398347
+      },
+      "font_distribution": {
+        "LMRoman10-Bold": 15,
+        "SFRM1000": 11,
+        "SFTI0900": 10,
+        "LMMathSymbols6-Regular": 7,
+        "SFRB1000": 7
+      },
+      "detected_languages": [
+        "en"
+      ],
+      "multilingual_support": true,
+      "processing_time": 3.07,
+      "language_detection_methods": {
+        "regex": true,
+        "langdetect": true,
+        "langid": true
+      },
+      "font_statistics": {
+        "mean": 9.902857142857142,
+        "median": 10.0,
+        "std_dev": 1.021787497203305,
+        "min": 8.4,
+        "max": 14.3,
+        "range": 5.9
+      },
+      "font_consistency": {
+        "SFRB1440": {
+          "count": 1,
+          "mean_size": 14.3,
+          "std_size": 0,
+          "min_size": 14.3,
+          "max_size": 14.3,
+          "size_range": 0.0
+        },
+        "FontAwesome5Free-Solid": {
+          "count": 3,
+          "mean_size": 9.9,
+          "std_size": 0.0,
+          "min_size": 9.9,
+          "max_size": 9.9,
+          "size_range": 0.0
+        },
+        "SFRM1095": {
+          "count": 4,
+          "mean_size": 10.9,
+          "std_size": 0.0,
+          "min_size": 10.9,
+          "max_size": 10.9,
+          "size_range": 0.0
+        },
+        "FontAwesome5Brands-Regul": {
+          "count": 2,
+          "mean_size": 9.9,
+          "std_size": 0.0,
+          "min_size": 9.9,
+          "max_size": 9.9,
+          "size_range": 0.0
+        },
+        "SFXC1200": {
+          "count": 5,
+          "mean_size": 12.0,
+          "std_size": 0.0,
+          "min_size": 12.0,
+          "max_size": 12.0,
+          "size_range": 0.0
+        },
+        "LMMathSymbols6-Regular": {
+          "count": 7,
+          "mean_size": 8.4,
+          "std_size": 0.0,
+          "min_size": 8.4,
+          "max_size": 8.4,
+          "size_range": 0.0
+        },
+        "SFTI0900": {
+          "count": 10,
+          "mean_size": 9.0,
+          "std_size": 0.0,
+          "min_size": 9.0,
+          "max_size": 9.0,
+          "size_range": 0.0
+        },
+        "SFRM0900": {
+          "count": 3,
+          "mean_size": 9.0,
+          "std_size": 0.0,
+          "min_size": 9.0,
+          "max_size": 9.0,
+          "size_range": 0.0
+        },
+        "LMRoman10-Bold": {
+          "count": 15,
+          "mean_size": 10.0,
+          "std_size": 0.0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        },
+        "SFRM1000": {
+          "count": 11,
+          "mean_size": 10.0,
+          "std_size": 0.0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        },
+        "SFRB1000": {
+          "count": 7,
+          "mean_size": 10.0,
+          "std_size": 0.0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        },
+        "SFTI1000": {
+          "count": 2,
+          "mean_size": 10.0,
+          "std_size": 0.0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        }
+      }
+    }
+  },
+  "Tarot-Card-Meanings.pdf": {
+    "title": "Untitled Document",
+    "outline": [
+      {
+        "level": "H1",
+        "text": "Tarot Card Meanings",
+        "page": 2,
+        "language": "en",
+        "font_size": 22.0,
+        "is_bold": false,
+        "confidence_score": 65.0
+      },
+      {
+        "level": "H1",
+        "text": "For easy reference and to help you get started with your readings, in the following pages I",
+        "page": 2,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "have produced a short divinatory meaning for each card. You will find lists of meanings for",
+        "page": 2,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "the Major Arcana and the Minor Arcana suits of Wands, Pentacles, Swords and Cups.",
+        "page": 2,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Have fun ☺",
+        "page": 2,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Liz Dean",
+        "page": 2,
+        "language": "en",
+        "font_size": 12.0,
+        "is_bold": false,
+        "confidence_score": 55.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 2",
+        "page": 2,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "The Major Arcana",
+        "page": 3,
+        "language": "en",
+        "font_size": 24.0,
+        "is_bold": false,
+        "confidence_score": 65.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 3",
+        "page": 3,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 4",
+        "page": 4,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 5",
+        "page": 5,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 6",
+        "page": 6,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Sudden endings that feel senseless and unnecessary wake you up to the fact that none of",
+        "page": 7,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": false,
+        "confidence_score": 25.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 7",
+        "page": 7,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Suit of Wands",
+        "page": 8,
+        "language": "en",
+        "font_size": 24.0,
+        "is_bold": false,
+        "confidence_score": 65.0
+      },
+      {
+        "level": "H1",
+        "text": "Wands show up in a reading be mindful of burning desires and what ignites passion and sparks",
+        "page": 8,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": false,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Ace of Wands",
+        "page": 8,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Two of Wands",
+        "page": 8,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 8",
+        "page": 8,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Three of Wands",
+        "page": 9,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Four of Wands",
+        "page": 9,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Five of Wands",
+        "page": 9,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Six of Wands",
+        "page": 9,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Seven of Wands",
+        "page": 9,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 9",
+        "page": 9,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Eight of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Nine of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Ten of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Page of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Knight of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Queen of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "King of Wands",
+        "page": 10,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Suit of Pentacles",
+        "page": 10,
+        "language": "en",
+        "font_size": 24.0,
+        "is_bold": false,
+        "confidence_score": 65.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 10",
+        "page": 10,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Ace of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Two of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Three of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Four of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Five of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Six of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Seven of Pentacles",
+        "page": 11,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 11",
+        "page": 11,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Eight of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Nine of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Ten of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Page of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Knight of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Queen of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "King of Pentacles",
+        "page": 12,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 12",
+        "page": 12,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Suit of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 24.0,
+        "is_bold": false,
+        "confidence_score": 65.0
+      },
+      {
+        "level": "H1",
+        "text": "Ace of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Two of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Three of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Four of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Five of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "A need to walk away rather than waste energy defending yourself against those who may never",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": false,
+        "confidence_score": 25.0
+      },
+      {
+        "level": "H1",
+        "text": "Six of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Seven of Swords",
+        "page": 13,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 13",
+        "page": 13,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Eight of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Nine of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Ten of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Page of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Knight of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Queen of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "King of Swords",
+        "page": 14,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 14",
+        "page": 14,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Suit of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 24.0,
+        "is_bold": false,
+        "confidence_score": 65.0
+      },
+      {
+        "level": "H1",
+        "text": "Ace of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Two of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Three of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Four of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Five of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Six of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Seven of Cups",
+        "page": 15,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 15",
+        "page": 15,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      },
+      {
+        "level": "H1",
+        "text": "Eight of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Nine of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Ten of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Page of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Knight of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "Queen of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H1",
+        "text": "King of Cups",
+        "page": 16,
+        "language": "en",
+        "font_size": 10.0,
+        "is_bold": true,
+        "confidence_score": 45.0
+      },
+      {
+        "level": "H3",
+        "text": "P a g e | 16",
+        "page": 16,
+        "language": "en",
+        "font_size": 11.0,
+        "is_bold": true,
+        "confidence_score": 35.0
+      }
+    ],
+    "metadata": {
+      "pages": 16,
+      "text_elements": 656,
+      "body_font_size": 10.0,
+      "unique_font_sizes": 5,
+      "size_thresholds": {
+        "title": 12.649399309428572,
+        "h1": 11.987049482071429,
+        "h2": 11.324699654714287,
+        "h3": 10.662349827357144,
+        "body": 10.0,
+        "small": 9.337650172642856
+      },
+      "font_distribution": {
+        "Calibri": 414,
+        "Calibri-Bold": 164,
+        "Calibri-BoldItalic": 77,
+        "Calibri-Italic": 1
+      },
+      "detected_languages": [
+        "en"
+      ],
+      "multilingual_support": true,
+      "processing_time": 0.13,
+      "language_detection_methods": {
+        "regex": true,
+        "langdetect": true,
+        "langid": true
+      },
+      "font_statistics": {
+        "mean": 10.18140243902439,
+        "median": 10.0,
+        "std_dev": 1.3246996547142862,
+        "min": 10.0,
+        "max": 24.0,
+        "range": 14.0
+      },
+      "font_consistency": {
+        "Calibri": {
+          "count": 414,
+          "mean_size": 10.28743961352657,
+          "std_size": 1.6590748946415512,
+          "min_size": 10.0,
+          "max_size": 24.0,
+          "size_range": 14.0
+        },
+        "Calibri-Bold": {
+          "count": 164,
+          "mean_size": 10.0,
+          "std_size": 0.0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        },
+        "Calibri-BoldItalic": {
+          "count": 77,
+          "mean_size": 10.0,
+          "std_size": 0.0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        },
+        "Calibri-Italic": {
+          "count": 1,
+          "mean_size": 10.0,
+          "std_size": 0,
+          "min_size": 10.0,
+          "max_size": 10.0,
+          "size_range": 0.0
+        }
+      }
+    }
+  }
+}
